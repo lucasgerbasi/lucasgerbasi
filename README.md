@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-## <picture><img src = "https://github.com/lucasgerbasi/lucasgerbasi/about_me.gif" width = 50px></picture> **Sobre mim**
+## <picture><img src = "https://github.com/lucasgerbasi/about_me.gif" width = 50px></picture> **Sobre mim**
 
 - 🔭 Possuo experiência com **HTML5, CSS3, JavaScript, Python**
 
