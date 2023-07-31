@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-## <picture><img src = "https://github.com/0xAbdulKhalid/lucasgerbasi/about_me.gif" width = 50px></picture> **Sobre mim**
+## <picture><img src = "https://github.com/lucasgerbasi/lucasgerbasi/about_me.gif" width = 50px></picture> **Sobre mim**
 
 - 🔭 Possuo experiência com **HTML5, CSS3, JavaScript, Python**
 
@@ -71,34 +71,25 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect </h2>Entre em contato comigo:</summary>
+    <summary><h2 style="display: inline-block">Entre em contato comigo:</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
 <ul>
-<li>
-<a href="https://linkedin.com/in/lucas-gerbasi/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  lucasgerbasi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-<li>
-<a href="mailto:lucas.gerbasi1@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  lucas.gerbasi1-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+    <li>
+        <a href="https://linkedin.com/in/lucas-gerbasi/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:  lucasgerbasi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+        </a>
+    </li>
+    <li>
+        <a href="mailto:lucas.gerbasi1@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail:  lucas.gerbasi1-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+        </a>
+    </li>
 </ul>
-  
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=lucasgerbasiicon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
