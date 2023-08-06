@@ -22,7 +22,7 @@
 
 - 🔭 Possuo experiência com **HTML5, CSS3, JavaScript, Python**
 
-- 🌱 Estou aprendendo **React**
+- 🌱 Estou aprendendo **React, PHP**
 
 - 📫 Sinta-se à vontade para entrar em contato comigo. **lucas.gerbasi1@gmail.com**
 
