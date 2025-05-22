@@ -23,9 +23,9 @@ Atualmente aberto a oportunidades de estágio ou colaboração!
 ---
 
 <!-- GitHub Stats -->
-  <img width="48%" height=110px src="https://github-readme-streak-stats.herokuapp.com?user=lucasgerbasi&theme=dark&hide_border=false" />
+  <img width="48%" align="center" height=110px src="https://github-readme-streak-stats.herokuapp.com?user=lucasgerbasi&theme=dark&hide_border=false" />
   
-  <img width="48%" height=110px src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgerbasi&layout=compact&theme=dark&hide_border=false" />
+  <img width="40%" height=110px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgerbasi&layout=compact&theme=dark&hide_border=false" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ Atualmente aberto a oportunidades de estágio ou colaboração!
 <!-- Contact Section -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Entre em contato comigo</h2></summary>
+    <summary><h2 style="display: inline-block">📫 Entre em contato comigo</h2></summary>
   </ul>
 </div>
 
