@@ -22,11 +22,13 @@ Atualmente aberto a oportunidades de estágio ou colaboração!
 
 ---
 
-<!-- GitHub Stats -->
-  <img width="48%" align="center" height=110px src="https://github-readme-streak-stats.herokuapp.com?user=lucasgerbasi&theme=dark&hide_border=false" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=lucasgerbasi&theme=dark&hide_border=false" />
   
-  <img width="40%" height=110px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgerbasi&layout=compact&theme=dark&hide_border=false" />
-</p>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgerbasi&layout=compact&theme=dark&hide_border=false" />
+
+</div>
 
 ---
 
